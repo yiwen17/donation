@@ -1,6 +1,6 @@
 donate = read.csv('donation data.csv')  #master sheet of data
 code = read.csv('dmef1code.csv')        #codebook for understanding solicitation & contribution codes
-divide = read.csv('GEO.csv')            #geographical region division
+divide = read.csv('geo.csv')            #geographical region division
 inc = read.csv('h08.csv')               #income level data for all states; larger is higher
 
 ##------------ DATA PREPARATION -------------------
